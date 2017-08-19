@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>@string/food</item>
+        <item>@string/traffic</item>
+        <item>@string/healthcare</item>
+        <item>@string/clothes</item>
+        <item>@string/entertainment</item>
+        <item>@string/education</item>
+        <item>@string/other</item>
+    </string-array>
+    <string-array name="currencies">
+        <item>@string/usd</item>
+        <item>@string/cny</item>
+        <item>@string/ecu</item>
+        <item>@string/jpy</item>
+        <item>@string/gbp</item>
+    </string-array>
+</resources>
